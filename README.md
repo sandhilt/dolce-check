@@ -6,3 +6,9 @@ This application uses virtualenv.
 # Requeriments
 
 - Requeriment in requeriments.txt file.
+
+# Usage
+
+```bash
+$ scrapy runspider scrapper.py
+```
